@@ -1,5 +1,9 @@
 package com.baizhi.cwj;
 
-public interface aa {
-    public void selectAll();
+public class aa {
+    public void selectAll() {
+    }
+
+    public void updateAll() {
+    }
 }
